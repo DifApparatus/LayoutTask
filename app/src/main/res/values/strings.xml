@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">LayoutTask</string>
+    <string name="frameContainerScrollView">frameContainerScrollView</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

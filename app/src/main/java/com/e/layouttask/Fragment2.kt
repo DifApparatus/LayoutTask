@@ -9,7 +9,11 @@ import android.view.View
 import android.view.ViewGroup
 import kotlinx.android.synthetic.main.fragment2.view.*
 
-
+/**
+ * Non[ConstraintLayout] fragment.
+ *
+ * @author Aliaksandr Shapkin
+ */
 class Fragment2 : Fragment() {
 
     override fun onCreate(savedInstanceState: Bundle?) {

@@ -2,6 +2,11 @@ package com.e.layouttask
 import android.os.Parcelable
 import kotlinx.android.parcel.Parcelize
 
+/**
+ * Data class providing info about flight.
+ *
+ * @author Aliaksandr Shapkin
+ */
 @Parcelize
 data class FlightTicket(val date:String,
                         val freeSeats:Int,

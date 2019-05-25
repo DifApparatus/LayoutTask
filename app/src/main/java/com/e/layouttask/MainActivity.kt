@@ -4,6 +4,13 @@ import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.support.v4.app.Fragment
 import android.widget.Button
+
+/**
+ * Activity with 2 [Button]s. The first one displays [Fragment1] based on [ConstraintLayout] and the second shows
+ * [Fragment2] based on [LinearLayout].
+ *
+ * @author Aliaskandr Shapkin
+ */
 class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
